@@ -14,24 +14,24 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;86BBmJbD#Qcm7XVo_bTo1Aujk6YifCe1fTxp6AYcYldcPMtvbOus' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://shavi_user:qtXoG249ZYxD1uYrkm3kwyDFqTJM9e1I@dpg-ck9r7nns0fgc73etrfjg-a.frankfurt-postgres.render.com/shavi'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94779638617'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Shavi'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -45,17 +45,17 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@shavi' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'shavi 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'shavi  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrightbot.chat%2Fen%2Fhome&psig=AOvVaw1tiPxLbnmCb6prBlh-ffIO&ust=1695877516792000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjM7JeCyoEDFQAAAAAdAAAAABAF' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
@@ -63,7 +63,7 @@ global.MAX_SIZE = '400' // Bot Uloading Max size
 
 global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION =  true
 
 global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
